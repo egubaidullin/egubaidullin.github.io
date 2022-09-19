@@ -89,23 +89,9 @@ content:
           - Migration of all critical systems to the cloud.
       
       - layout: left
-        title: FINOTEC CO., LTD.
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Head Of Information Technology Department
-        caption: November 2020 - Present
-        quote: >
-          Management of IT service in an international Company with branches in three countries of Southeast Asia and Europe.
-        description: | # this will include new lines to allow paragraphs
-          - Migration of all critical systems to the cloud.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Director of IT
+        title: NDA
         caption: 2016 - Present
-        sub_title: NDA
+        sub_title: Director of IT 
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
@@ -114,17 +100,84 @@ content:
           Automation of enterprises (services, production, trade).
           Implementation of CRM (Bitrix24, AmoCRM), commodity accounting systems.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - layout: left
+        title: LLC Managing Company "Salute"
+        caption: 2016 - 2018
+        sub_title: Head of IT Department
+        quote: >
+          A large retail chain of stores.
+        description: | # this will include new lines to allow paragraphs
+          - Design and implementation of IT development strategy;
+          - Optimizing and digitalizing business processes;
+          - Budget planning and execution control;
+          - Reducing IT operating costs (8%);
+          - Implemented a system of training and testing of personnel. Improvement of the quality of personnel training;
+          - Implementation of Business Intelligence solution
+          - Implementation of internal and external electronic document management. Savings in paper costs and rental space for document storage;
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - layout: left
+        title: OMC
+        caption: 2015 - 2016
+        sub_title: Head of IT Department
+        quote: >
+          Maintenance of the IT infrastructure of a distributed Arctic town (about 30 thousand people) during the construction of an LNG plant (the largest international project in Russia) of remote hard-to-reach facilities 24/7.
+        description: | # this will include new lines to allow paragraphs
+          - Budget planning.
+          - Opening and technical support of shops and canteens (more than 30 units);
+          - Support for software for accounting for accommodation and meals for employees, development of the required reports.
+          - Organization of TV-retransmission;
+          - Organization of wireless communication between remote and inaccessible objects using radio relay equipment.Maintenance of the IT infrastructure of a distributed Arctic town (about 30 thousand people) during the construction of an LNG plant (the largest international project in Russia) of remote hard-to-reach facilities 24/7. - Budget planning. - Opening and technical support of shops and canteens (more than 30 units); - Support for software for accounting for accommodation and meals for employees, development of the required reports. - Organization of TV-retransmission; - Organization of wireless communication between remote and inaccessible objects using radio relay equipment.
+
+      - layout: left
+        title: SPAR International
+        caption: 2010 - 2015
+        sub_title: Head of IT Department
+        quote: >
+          A regional retail chain of stores.
+        description: | # this will include new lines to allow paragraphs
+          - Development and implementation of an IT strategy at the enterprise (IT transformation as part of the Digital Transformation);
+          - Controlled annual IT Infrastructure budget and provided optimization year on year through improvisation in technology.
+          - Organization of a team of specialists, their motivation and professional growth (raised 4 leaders);
+          - Digitalization of the Company's processes, implementation of a corporate business intelligence system;
+          - Implementation of a warehouse management system (WMS). Reducing order assembly errors, speeding up order assembly, reducing inventory by up to 15%;
+          - Reducing logistics costs - up to 11%. Distribution of loading of cars, taking into account the route of movement.
+          - Optimised IT budget by reducing IT operating costs by 30%;
+          - Ensuring the compliance of the trading and accounting system in accordance with the regulatory requirements of the legislation;
+          - Implementation of the EDI system to optimize work with orders to suppliers;
+          - Implementation of a loyalty system;
+          - Development and implementation of our own auto-order system.
+          - Automatic generation and printing of price tags.
+          - Reducing financial losses, increasing the quality of customer service by creating a video surveillance department.
+          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Moscow Technical Institute
+        caption: 2022
+        sub_title: Project management
+
+      - layout: left
+        title: Yandex School of Data Analysis
+        caption: 2022
+        sub_title: Cloud Service Engineer
+        
+      - layout: left
+        title: Sterlitamak State Pedagogical Institute
+        caption: 2006
+        sub_title: Technology and Entrepreneurship
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+  #     Look at this cool image  
+  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
