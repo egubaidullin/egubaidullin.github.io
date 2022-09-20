@@ -169,7 +169,7 @@ content:
 
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Moscow Technical Institute
