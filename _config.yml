@@ -167,6 +167,26 @@ content:
         caption: 2006
         sub_title: Technology and Entrepreneurship
 
+
+  - title: Education # Title for the section
+    layout: text # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Moscow Technical Institute
+        caption: 2022
+        sub_title: Project management
+
+      - layout: top-middle
+        title: Yandex School of Data Analysis
+        caption: 2022
+        sub_title: Cloud Service Engineer
+        
+      - layout: top-right
+        title: Sterlitamak State Pedagogical Institute
+        caption: 2006
+        sub_title: Technology and Entrepreneurship
+
+
   # - title: A Little More About Me
   #   layout: text
   #   content: | # this will include new lines to allow paragraphs
