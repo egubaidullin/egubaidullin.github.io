@@ -102,11 +102,20 @@ content:
         quote: >
           -
         description: | # this will include new lines to allow paragraphs
-          Optimization and automation of business processes.
-          IoT (Internet of things), automation of buildings, apartments, offices.
-          Automation of enterprises (services, production, trade).
-          Implementation of CRM (Bitrix24, AmoCRM), commodity accounting systems.
+          - Implemented Set Retail product from CSI Crystal for automation
+ retail trade in conjunction with SaaS services ABM
+ Cloud(Automated ordering system)+ ABM Shelf (Shelf space optimisation)+ABM Loyality(Loyalty system) +
+ Smart Mobile (software platform for developing corporate mobile solutions for mobile devices).
+          - Digitization and optimization of business processes.
+          - Integration of cloud services "Moy Sklad", "Business.Ru" with
+ marketplaces and online stores on OpenCart platforms,
+ 1C Bitrix, WordPress WooCommerce, Ecwid, CS.Cart.
+          - Implemented IoT projects (ZigBee, Z-Wave,
+ MQTT, BLE, LTE-M).
+          - Implementation of dashboards and analytics with
+ using SaaS;
 
+          - Employee development, training, mentoring.
       - layout: left
         title: LLC Managing Company "Salute"
         caption: 2016 - 2018
