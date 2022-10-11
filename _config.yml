@@ -86,25 +86,15 @@ content:
         quote: >
           Management of IT service in an international Company with branches in three countries of Southeast Asia and Europe.
         description: | # this will include new lines to allow paragraphs
-          - Migration of all critical systems to the cloud.
           - Management of IT service in an international Company with branches in three countries of Southeast Asia and Europe.
-
           - Reformed an IT department to improve operational efficiency and guarantee 24/7/365 availability of critical services.
-
           - Created a culture of transparency, collaboration, accountability, and commitment to excellence, across the IT team.
-
           - Building infrastructure 'from scratch'.
-
           - Migration of all critical systems to the cloud.
-
           - Managed commercials, tenders, vendor selection and relationships.
-
           - Used solutions/technologies: Fortigate, Cisco, Symantec, VMware,
-
             Tableau, Microsoft, Synology, Bitrix24, Flyfonetalk, Line, Google workspace, Google Cloud, Alibaba Cloud,
-
             Docker/Kubernetes, Zabbix, Grafana, etc.
-
           - Over 1000 users.
       
       - layout: left
