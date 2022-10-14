@@ -182,9 +182,10 @@ content:
 
 
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
+  - title: A Little More About Me
+  layout: text
+  content: | # this will include new lines to allow paragraphs
+  I am passionate about photography and self development. And I am also a happy father of twins boys.
   #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
   #     - Rock climbing
   #     - Gaming
