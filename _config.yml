@@ -40,7 +40,8 @@ additional_links:
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
 
-additional_links:
+# Additional icon links
+# additional_links:
 - title: Pdf Download
   icon: far fa-file-pdf
   url: https://github.com/egubaidullin/egubaidullin.github.io/raw/main/Gubaidullin_Eduard_CV_ENG.pdf
