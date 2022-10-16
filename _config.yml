@@ -63,7 +63,7 @@ google_analytics: "UA-245371663-1"
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eduard. I'm a data-driven director of information technology with 10+ years experience in IT leadership positions. Design and implementation business strategies to maximize today's opportunities while preparing for the  future. Skilled in IT Service Management, IT Strategy, Digital Transformation, IT Infrastructure Management, Project Management, IOT. 
 
-  I am most skilled in: <mark>Leadership</mark>, <mark>Adaptability</mark>, <mark>Communication Mentorship</mark>, <mark>IT-Management</mark>, <mark>Leadership</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
+  I am most skilled in: <mark>Leadership</mark>, <mark>Adaptability</mark>, <mark>Communication Mentorship</mark>, <mark>IT-Management</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
 
 content:
   # - title: Projects # Title for the section
