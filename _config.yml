@@ -46,6 +46,11 @@ additional_links:
   icon: far fa-file-pdf
   url: https://github.com/egubaidullin/egubaidullin.github.io/raw/main/Gubaidullin_Eduard_CV_ENG.pdf
 
+# additional icon to telegram 
+- title: Telegram
+  icon: fa fa-telegram
+  url: https://t.me/ed365
+
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-5SMXM7W"
