@@ -187,6 +187,12 @@ content:
 
 
 
+ # - title: Projects # Title for the section
+ #   layout: list # Type of content section (list/text)
+ #   content:
+ #     - layout: top-middle
+  #      border: weak 
+ #       title: Electronic school diary, 2006
 
   - title: A Little More About Me
     layout: text
@@ -203,12 +209,6 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        border: weak 
-        title: Electronic school diary, 2006
         
 # Footer
 footer_show_references: true
