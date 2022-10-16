@@ -59,18 +59,18 @@ google_analytics: "UA-245371663-1"
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eduard. I'm a data-driven director of information technology with 10+ years experience in IT leadership positions. Design and implementation business strategies to maximize today's opportunities while preparing for the  future. Skilled in IT Service Management, IT Strategy, Digital Transformation, IT Infrastructure Management, Project Management, IOT. 
 
-  I am most skilled in: <mark>IT-Management</mark>, <mark>Leadership</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
+  I am most skilled in: <mark>Leadership</mark>, <mark>Adaptability</mark>, <mark>Communication Mentorship</mark>, <mark>IT-Management</mark>, <mark>Leadership</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
 
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
   #     - layout: top-middle
-  #       title: Super awesome project
+  #       title: Electronic school diary, 2006
   #       link: github.com/sproogen
   #       # link_text: Project Website
   #       additional_links:
@@ -201,6 +201,15 @@ content:
 
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+
+   - title: Projects # Title for the section
+     layout: list # Type of content section (list/text)
+     content:
+       - layout: top-middle
+         title: Electronic school diary, 2006
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
 
 # Footer
 footer_show_references: true
