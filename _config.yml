@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: Eduard Gubaidullin
-title: CIO / IT Director
+title: CIO / IT Director / Head of IT
 email: egubaidullin@gmail.com
 website: cv.egub.win
+telegram: t.me/ed365
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -54,8 +55,8 @@ additional_links:
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-5SMXM7W"
-# gtag: "UA-245371663-1"
-google_analytics: "UA-245371663-1"
+gtag: "UA-245371663-1"
+# google_analytics: "UA-245371663-1"
 
 # About Section
 # about_title: About Me
