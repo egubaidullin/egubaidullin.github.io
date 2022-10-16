@@ -203,14 +203,13 @@ content:
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
-   - title: Projects # Title for the section
-     layout: list # Type of content section (list/text)
-     content:
-       - layout: top-middle
-         title: Electronic school diary, 2006
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak 
+        title: Electronic school diary, 2006
+        
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
