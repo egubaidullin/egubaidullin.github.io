@@ -16,8 +16,8 @@ darkmode: false
 
 # Social links
 
-#twitter_username: facespics
-#github_username:  sproogen
+#twitter_username: egubaidullin
+#github_username:  egubaidullin
 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -61,9 +61,8 @@ gtag: "UA-245371663-1"
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Eduard. I'm a data-driven director of information technology with 10+ years experience in IT leadership positions. Design and implementation business strategies to maximize today's opportunities while preparing for the  future. Skilled in IT Service Management, IT Strategy, Digital Transformation, IT Infrastructure Management, Project Management, IOT. 
-
-  I am most skilled in: <mark>Leadership</mark>, <mark>Adaptability</mark>, <mark>Communication Mentorship</mark>, <mark>IT-Management</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
+  Hi, my name's Eduard. I'm a data-driven, goal-oriented leader with 10+ years experience in IT leadership positions. Design and implementation business strategies to maximize today’s opportunities while preparing for the future.
+  I am most skilled in: <mark>Leadership</mark>, <mark>Adaptability</mark>, <mark>Communication</mark>, <mark>Mentorship</mark>, <mark>IT-Management</mark>, <mark>IOT</mark>, <mark>Digitalization and Digital Transformation</mark> and <mark>IT Strategy</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -113,7 +112,8 @@ content:
           Business consulting.
         description: | # this will include new lines to allow paragraphs
           - Developed a roadmap and a set of measures for the implementation of import substitution.
-          - Implementation of retail automation (Set Retail by CSI Crystal) in conjunction with SaaS services ABM Cloud (Automated ordering system) + ABM Shelf (shelf space optimization) + ABM Loyality (loyalty system) + Smart Mobile (software platform for developing corporate mobile solutions for mobile devices).
+          - Optimized IT budget by reducing unused cloud resources by 25% and IT spend by 22%
+          - Implementation of retail automation (Set Retail by CSI Crystal) in conjunction with SaaS services ABM Cloud (Automated ordering system) + ABM Shelf (shelf space optimization) + ABM Loyalty (loyalty system) + Smart Mobile (software platform for developing corporate mobile solutions for mobile devices).
           - Digitization and optimization of business processes.
           - Integration of cloud services "Moy Sklad", "Business.Ru" with marketplaces and online stores on OpenCart platforms,  1C Bitrix, WordPress WooCommerce, Ecwid, CS.Cart.
           - Implemented IoT projects (ZigBee, Z-Wave, MQTT, BLE, LTE-M).
@@ -132,7 +132,7 @@ content:
           - Reducing IT operating costs (8%);
           - Implemented a system of training and testing of personnel. Improvement of the quality of personnel training;
           - Implementation of Business Intelligence solution
-          - Implementation of internal and external electronic document management. Savings in paper costs and rental space for document storage;
+          - Implementation of Electronic Document Management System. Paper cost savings reduced by 70%. Process speed increase by 80%.
 
       - layout: left
         title: OMC
@@ -144,7 +144,8 @@ content:
           - Budget planning;
           - Support for software for accounting for accommodation and meals for employees, development of the required reports.
           - Organization of TV-retransmission;
-          - Organization of wireless communication between remote and inaccessible objects using radio relay equipment.
+          - Organization of wireless communication between remote and inaccessible objects using radio relay equipment;
+          - Customer Satisfaction (CSAT)- 97.8%.
 
       - layout: left
         title: SPAR International
@@ -154,17 +155,17 @@ content:
           A regional retail chain of stores.
         description: | # this will include new lines to allow paragraphs
           - Development and implementation of an IT strategy at the enterprise (IT transformation as part of the Digital Transformation);
-          - Controlled annual IT Infrastructure budget and provided optimization year on year through improvisation in technology.
+          - Controlled annual IT Infrastructure budget and provided optimization year on year through improvisation in technology;
           - Organization of a team of specialists, their motivation and professional growth (raised 4 leaders);
           - Digitalization of the Company's processes, implementation of a corporate business intelligence system;
           - Implementation of a warehouse management system (WMS). Reducing order assembly errors, speeding up order assembly, reducing inventory by up to 15%;
-          - Reducing logistics costs - up to 11%. Distribution of loading of cars, taking into account the route of movement.
+          - Reducing logistics costs - up to 11%. Distribution of loading of cars, taking into account the route of movement;
           - Optimised IT budget by reducing IT operating costs by 30%;
           - Ensuring the compliance of the trading and accounting system in accordance with the regulatory requirements of the legislation;
           - Implementation of the EDI system to optimize work with orders to suppliers;
           - Implementation of a loyalty system;
-          - Development and implementation of our own auto-order system.
-          - Automatic generation and printing of price tags.
+          - Development and implementation of our own auto-order system;
+          - Automatic generation and printing of price tags;
           - Reducing financial losses, increasing the quality of customer service by creating a video surveillance department.
           
   - title: Education # Title for the section
